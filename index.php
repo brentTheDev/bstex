@@ -45,7 +45,7 @@
 			</div>
 		</header>
 		<section>
-			<div class="container">
+			<div class="container pt-4">
 				<div class="jumbotron">
 					<h1 class="display-4">Hello, world!</h1>
 					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
@@ -69,35 +69,35 @@
 			</div>
 		</section>
 		<section>
-			<div class="container">
+			<div class="container py-5">
 				<div class="row">
-					<div class="col">
-						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
-						<div class="card">
+					<div class="col-lg-3 col-sm-6">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid rounded-circle mb-4" alt="fill murray">
+						<div class="card mb-4">
 							<div class="card-body">
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 							</div>
 						</div>
 					</div>
-					<div class="col">
-						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
-						<div class="card">
+					<div class="col-lg-3 col-sm-6"">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid rounded-circle mb-4" alt="fill murray">
+						<div class="card mb-4">
 							<div class="card-body">
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 							</div>
 						</div>
 					</div>
-					<div class="col">
-						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
-						<div class="card">
+					<div class="col-lg-3 col-sm-6"">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid rounded-circle mb-4" alt="fill murray">
+						<div class="card mb-4">
 							<div class="card-body">
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 							</div>
 						</div>
 					</div>
-					<div class="col">
-						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
-						<div class="card">
+					<div class="col-lg-3 col-sm-6">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid rounded-circle mb-4" alt="fill murray">
+						<div class="card mb-4">
 							<div class="card-body">
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 							</div>
