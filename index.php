@@ -56,14 +56,52 @@
 			</div>
 		</section>
 		<section>
-			<div class="container">
+			<div class="container-fluid bg-secondary py-5">
 				<div class="row">
-					<div>
-						<img src="https://www.placecage.com/200/300" class="img-fluid" alt="calm nic cage">
+					<div class="col-md-3">
+						<img src="https://www.placecage.com/300/300" class="img-fluid" alt="calm nic cage">
 					</div>
-					<div>
+					<div class="col-md-9">
 						<p>Bacon ipsum dolor amet tongue in t-bone fugiat. Ullamco turducken kielbasa, short loin sirloin sed sunt pork belly nisi culpa. Ipsum duis ground round meatloaf, salami commodo ut elit short loin officia ea shank cupidatat turkey capicola. Occaecat duis ball tip swine turkey meatball pork belly veniam jowl est sint bresaola nostrud. Landjaeger anim chicken rump prosciutto venison biltong quis. Sunt tenderloin commodo, reprehenderit beef eu fatback in. Nisi t-bone enim, fatback prosciutto sint sunt.
 							Exercitation dolor corned beef, ham boudin shoulder ad landjaeger cupidatat beef ribs strip steak enim t-bone doner. Lorem bresaola in non cupidatat drumstick ham hock. Dolore filet mignon flank, shoulder turkey tempor deserunt swine. In adipisicing labore lorem, sint ham hock in excepteur pariatur sunt sed. Labore aliqua capicola sausage cillum ribeye eiusmod enim flank irure ham beef. Boudin cillum velit fatback sunt ball tip duis consectetur commodo prosciutto.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<img src="https://www.fillmurray.com/300/300" class="img-fluid" alt="fill murray">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
