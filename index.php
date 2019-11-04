@@ -45,7 +45,7 @@
 			</div>
 		</header>
 		<section>
-			<div class="container pt-4">
+			<div class="container pt-4	">
 				<div class="jumbotron">
 					<h1 class="display-4">Hello, world!</h1>
 					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
@@ -103,8 +103,11 @@
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
 		</section>
+		<footer>
+			<div class="container-fluid bg-dark text-light text-center py-5">
+				<small>This the bootstrap challenge footer.</small>
+			</div>
+		</footer>
 	</body>
 </html>
